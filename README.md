@@ -10,14 +10,14 @@ Un seul objectif: libérer les particuliers et les petites entreprises des logic
 
 * On ne laisse jamais tomber un ami.
 * Pour être ami, on devient membre.
-* La partie conseils, diagnotiques, se faire sortir d'un mauvais pas est gratuite pour tous les amis.
+* La partie conseils, diagnostiques, se faire sortir d'un mauvais pas est gratuite pour tous les amis.
   * Donc en gros, si tu appelles et que tu es dans la merde, la réponse que tu auras n'est pas
     "ça va te coûter X-mille dollars pour *peut-être* réparer ton problème", mais "oui, on arrive".
   * On peut considérer le membership comme un type d'assurance technologique.
 * Ce qu'on produit est libre et publiquement accessible.
 * Cercle d'amis communautaire, mais centré autour d'un noyau d'employés qui grantissent la
   prestation de services.
-* Presque tout est forfétaire, sous forme de formules préconcus.
+* Presque tout est forfétaire, sous forme de formules préconcues.
 * Pour les entreprises: votre propre département informatique.
 * Relation non contractuelle et amicale.
   * On suppose la bonne foi chez les amis.
@@ -30,7 +30,7 @@ Un seul objectif: libérer les particuliers et les petites entreprises des logic
 
 * Installation de Linux
 * Conseils en tout genre
-* Dépannage lociciel et matériel
+* Dépannage logiciel et matériel
 * Mise en place de politiques de gestion informatique
   * Backups
   * Mises à jour
@@ -48,7 +48,7 @@ coût moindre.
 1. Des bons développeurs, ça coûte cher de l'heure.
 2. Les amis linux n'ont pas les moyens de se payer du développement personnalisé.
 3. Donc, quand un ami a un besoin particulier on doit soit trouver la formule existante qui
-   satisfait son besoin ou d'explorer la possibilité de créer une nouvelle formule
+   satisfait son besoin ou d'explorer la possibilité de créer une nouvelle formule.
 
 ### Formule existante
 
@@ -108,11 +108,15 @@ prend le développement sur nous. On détermine alors le prix de notre formule d
 puisse récuperer cet investissement. Ce prix est alors déterminé par notre évaluation de la
 diffusion du besoin à l'étape 1.
 
-##### Développement majeur et grande diffusion: socio-financement
+##### Développement majeur et grande diffusion: socio-financement et/ou projet publique
 
 Si le développement est majeur mais que notre évaluation de la diffusion du besoin nous indique
-que beaucoup de personnes ont le même besoin, nous mettons en place une capagne de
+que beaucoup de personnes ont le même besoin, nous mettons en place une campagne de
 socio-financement.
+
+*ou bien*, si nous réussisons, comme nous l'espérons (voir la section *Communauté*), à attirer
+des développeurs dans le réseau, nous pourrions aussi proposer ce projet comme projet publique
+à nos développeurs, qui travailleraient dessus de façon bénévole.
 
 ##### Développement majeur et petite diffusion
 
@@ -122,13 +126,86 @@ référer à Savoir-faire Linux.
 
 ### Exemples de formules
 
-TODO
+* Blog wordpress avec thème public (avec ou sans légère modifications).
+* Transfert de la comptabilité vers un système libre.
+* Système simple de gestion de données relationnelles (à la MSAccess).
+* Analyse d'un site web existant (qualité, sécurité, SEO)
+* Prise en charge d'un site existant (seulement les petits sites de technos connues)
+* Formations individuelles
 
 ## Formation
 
-TODO
+La formation joue un rôle clé chez l'Ami Linux. Pour libérer un utilisateur, il faut lui donner
+le plus d'autonomie possible, et ça passe par la formation.
+
+Nous sonderons régulièrement notre réseau pour les besoins en formation et organiserons
+régulièrement des scéances de groupes, toujours gratuites pour les amis (et pourquoi pas pour tous,
+avec un modèle semblable à LinuQ qui invite tout le monde, mais que si tu reviens, tu es invité
+à devenir membre).
+
+De plus, pour les amis qui ne veulent pas attendre les formations de groupes ou qui veulent une
+formation plus pointue, des formations individuelles seront offertes.
+
+### Formation "Contribuer au logiciel libre"
+
+Dans l'esprit d'attirer des développeurs dans notre communauté, l'ami linux offrira à ceux-ci de
+les guider dans le monde merveilleux de la contribution au logiciel libre. C'est souvent très
+difficile pour un développeur débutant (où même moins débutant) de savoir par où commencer pour
+intégrer un projet libre publique. 
 
 ## Communauté
 
-TODO
+Nous espérons, avec l'ami linux, créer une communauté qui rassemble utilisateurs et développeurs.
+Il faudra mettre en place tous les outils pour permettre une communication et un partage fluide
+dans le réseau. Un local convivial sera de mise pour favoriser la rencontre entre nos amis.
+
+Il est difficile de prévoir à l'avance comment on fera pour attirer des développeurs, mais nous
+sommes convaincus de notre capacité à le faire. L'initiative est trop *cool* pour ne pas attirer
+de bons développeurs.
+
+### LinuQ
+
+Notre mission est fortement alignée à celle de [LinuQ](http://www.linuq.org/). Pourquoi ne pas
+simplement mettre nos efforts dans cette communauté?
+
+* Leur lien avec la ville de Québec est limitatif quant à leur forme.
+* Ils ne sont pas en mesure d'offrir le service qu'un noyau d'employés peut offrir.
+* Ils sont trop *loin*!!!
+
+Malgré cela, une bonne collaboration avec eux est essentielle. C'est certain qu'en terme de
+formation, nous pourrions considérer les membres de LinuQ comme un ami et leur offrir les mêmes
+services. De toute façon, ils vont finir par devenir des amis en bonne et due forme.
+
+### L'accorderie
+
+[L'accorderie](http://accorderie.ca/) est une initiative intéressante qui a déjà, apparamment, une
+offre de certains de leurs membres en terme de logiciels libres. C'est certain qu'on veut faire un
+pas dans leur direction puisque certains d'entre eux sont déjà sensibles à notre mission première.
+
+Une possibilité serait d'accepter, chez l'ami linux, les heures Accorderie comme du cash. Cela
+inciterait les membres de l'accorderie de venir profiter des services de l'ami linux. Cela nous
+donnerait aussi accès à un bassin de professionnels qui pourraient nous être utiles.
+
+Par exemple, disons qu'on a une formule qui a pour but de convertir une solution privative de
+comptabilité aux logiciels libre. Cette formule ne serait-elle pas grandement bonifiée par la
+présence amicale d'un comptable? Si un comptable fait partie de l'accorderie, nous pourrions
+utiliser notre banque d'heure pour bonifier nos formules.
+
+### Interface avec les développeurs de projets publiques
+
+Le sujet a été effleuré plus haut, mais mérite réflexion. Les développeurs connaîssent *la game*.
+Quand ils ont un problème avec une application libre, ils vont sur le site du projet et ils ouvrent
+un *ticket*. S'ensuit alors un dialogue le plus souvent amical avec les auteurs, etc.
+
+Par contre, on sait aussi qu'il y a une étiquette à respecter. Il faut s'assurer qu'on de crée pas
+de doublons, il faut envoyer des informations de débuggage pertinents, etc.
+
+Les amis linux ne sont pas connaîssants de ça. En servant simplement d'interface entre eux et les
+projets, nous pourrions grandement améliorer la situation de tout le monde.
+
+### Organismes communautaires
+
+Les organismes communautaires ont souvent des besoins semblables aux petites entreprises, mais sans
+le budget. Cela dit, ils *doivent* être nos amis linux. Il faudra leur faire des cadeaux en
+échange de visibilité.
 
