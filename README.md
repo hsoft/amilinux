@@ -6,13 +6,52 @@ logiciels privatifs qui ne répondent pas à leurs besoins et qui leur coûtent 
 
 Un seul objectif: libérer les particuliers et les petites entreprises des logiciels privatifs.
 
+## Le phantasme
+
+L'Ami Linux est une communauté d'utilisateurs et de développeurs de logiciels libres. Son point
+d'ancrage est un local qui a pignon sur rue, une place qui a une ambiance de café, où on va pour
+jaser, parfaire ses connaissances technologiques, travailler sur un projet libre, taponner sur
+un Raspberry Pi. L'Ami Linux, c'est *la* place où on va pour que la machine nous obéisse.
+
+Exemple: Charlotte a aidé David à configurer LibreOffice sur la plateforme de clavardage de
+l'ami linux, puis comme ça devenait pointu, lui a dit de passer au local samedi puisqu'elle y
+serait, en train de participer à un sprint Django. Elle pourrait alors mieux l'aider.
+
+En plus de trouver réponse à ses questions et de se faire dépanner pour nos problèmes urgents,
+c'est aussi un endroit où on peut trouver des solutions à des problèmes plus complexes en se
+servant des logiciels libres. On peut ainsi se faire installer un logiciel de comptabilité pour
+notre petite entreprise, reçevoir de la formation pour mieux utiliser notre tabulateur Calc, monter
+un site web.
+
+Pour assurer une prestation de services, l'ami linux est aussi composée d'une poignée d'employés,
+qui ont pour mandat de supporter les membres de la communauté dans les cas où elle ne se suffit pas
+à elle-même.
+
+Les services offerts par les employés ne sont pas gratuits, mais ils sont à coût fixe. On sait donc
+toujours d'avance dans quel bateau on s'embarque quand on fait appel à ces services.
+
+La communauté de l'ami linux est ancrée localement, mais rayonne globalement en servant de porte
+d'entrée locale aux projets libres publiques globaux. Les utilisateurs peuvent ainsi mieux
+participer aux logiciels qu'ils utilisent en se servant de l'ami linux comme traducteur
+français <--> geek. Les développeurs juniors y trouvent leur compte en reçevant de l'accompagnement
+dans leur contributions aux projets libres publiques. Ils y voient aussi l'occasion de parfaire
+leur connaissances en étant accompagnés de développeurs plus expérimentés. Les développeurs plus
+expérimentés y trouvent une façon efficace de canaliser l'énergie des développeurs juniors. Les
+projets libres publiques y gagnent des contributeurs inespérés.
+
+L'ami linux, bien que locale, inspire les gens d'autres villes et les amène à créer des communautés
+basées sur le même modèle, ce qui finit par créer un réseau global de communautés participant aux
+logiciels libres, faisant ainsi exploser leur utilisation, propageant la liberté aux quatres coins
+du Québec, du monde!
+
 ## Principes centraux
 
 * On ne laisse jamais tomber un ami.
-* Pour être ami, on devient membre.
-* La partie conseils, diagnostiques, se faire sortir d'un mauvais pas est gratuite pour tous les amis.
-  * Donc en gros, si tu appelles et que tu es dans la merde, la réponse que tu auras n'est pas
-    "ça va te coûter X-mille dollars pour *peut-être* réparer ton problème", mais "oui, on arrive".
+* Pour être ami, on devient membre par une cotisation annuelle ou mensuelle.
+* La partie conseils, diagnostiques, dépannage simple est gratuite.
+  * Le dépannage plus complexe (nécessitant plusieures heures) n'est pas gratuit, mais est à coût
+    fixe, peu importe le problème. Dépendant des situations, il peut aussi être gratuit, toujours
+    sous la maxime "On ne laisse jamais tomber un ami".
   * On peut considérer le membership comme un type d'assurance technologique.
 * Ce qu'on produit est libre et publiquement accessible.
 * Cercle d'amis communautaire, mais centré autour d'un noyau d'employés qui grantissent la
@@ -54,7 +93,7 @@ coût moindre.
 
 L'ami linux, au fil de son existence, aura développé toute une série de formules pour répondre aux
 divers besoin de ses amis (voir plus loin pour une liste d'exemples hypothétiques). Ces formules
-ont un ces particularités:
+ont ces particularités:
 
 * Coût fixe, connu d'avance
 * Petites unités de travail (on tente de rester en dessous des 1000$)
@@ -64,7 +103,7 @@ Ceci a pour but de nous protéger contre une spirale infernale de changement de 
 à la mauvaise compréhension du client sur ce qu'il achète. Donc, parce que la mise reste basse,
 quand les choses regardent mal, on a toujours l'option "eject" à peu de frais.
 
-D'un autre côté, cela permet à l'ami de réduire ses risques car le coût de la solutions est connue
+D'un autre côté, cela permet à l'ami de réduire ses risques car le coût de la solution est connue
 d'avance, avec 100% de certitude.
 
 ### Nouvelle formule
@@ -200,12 +239,43 @@ un *ticket*. S'ensuit alors un dialogue le plus souvent amical avec les auteurs,
 Par contre, on sait aussi qu'il y a une étiquette à respecter. Il faut s'assurer qu'on de crée pas
 de doublons, il faut envoyer des informations de débuggage pertinents, etc.
 
-Les amis linux ne sont pas connaîssants de ça. En servant simplement d'interface entre eux et les
-projets, nous pourrions grandement améliorer la situation de tout le monde.
+Les amis linux ne sont pas tous connaîssants de ça. En servant simplement d'interface entre eux et
+les projets, nous pourrions grandement améliorer la situation de tout le monde.
 
 ### Organismes communautaires
 
 Les organismes communautaires ont souvent des besoins semblables aux petites entreprises, mais sans
 le budget. Cela dit, ils *doivent* être nos amis linux. Il faudra leur faire des cadeaux en
 échange de visibilité.
+
+## Rentabilité
+
+La cotisation des membres est gardée intentionnellement basse pour maximiser le membership, ce qui
+fait qu'on peut se poser la question de la rentabilité de l'organisation. Cette communauté n'est
+peut-être pas très rentable, mais elle n'est pas déficitaire non plus. Les dépenses occasionnées
+par les activités de support des membres ainsi que les frais fixes sont assurés par les revenus
+générés par l'implémentation des formules. Comment cela est-il possible?
+
+Premièrement, le coût de la partie "support" est moins élevé qu'on peut le penser à priori. Les
+amis linux ne sont pas laissés à eux même, ils sont soutenus par la communauté. Ils ont donc
+généralement des pratiques saines d'utilisation de leur machines et nécessitent donc moins de
+support qu'un utilisateur typique laissé à lui-même sur une machine Windows.
+
+Deuxièmement, l'ami linux a une connaissance étendue de la situation des membres de sont réseau
+puisqu'il le supporte lorsqu'il a des problèmes. Il est donc en mesure d'offrir des services
+exceptionnellement adaptés à leurs besoins, ce qui est un avantage compétitif que les autres
+prestataires de services n'ont pas. En fait, l'ami linux est en mesure d'offrir des services pour
+combler un besoin que le membre n'a même pas conscience d'avoir, comme par exemple l'automatisation
+d'une tâche répétitive dont le membre n'espérait jamais pouvoir se débarrasser.
+
+De plus, cette connaissance étendue des besoins de nos membres nous permet de mettre sur pied des
+solutions mutualisées efficacement, ce qui est encore plus difficile à faire pour les autres
+prestataires de services. Nous sommes donc en mesure d'offrir des services qui en d'autres
+circonstances seraient impossible à offrir de façon rentable. Nous ouvrons un nouveau marché!
+
+Troisièmement, ces services peuvent être offerts dans une optique d'autonomisation du membre et
+un membre plus autonome a moins besoin de services de support.
+
+Quatrièmement, les membres tirent un avantage tellement substantiel de l'existence du réseau de
+l'ami linux qu'ils seront réceptifs à contribuer financièrement si le besoin se présentait.
 
